@@ -1,0 +1,26 @@
+[
+  {
+    "id": "djenitor",
+    "name": "Djenitor",
+    "short_description": "A Full Stack App that allows real time guitar note streaming over Socket.IO",
+    "read_time_min": 30,
+    "finalized": True,
+    "tags": ["djenitor", "guitar", "stream", "notes", "socket"]
+  },
+  {
+    "id": "katamari",
+    "name": "Katamari",
+    "short_description": "That's still a secret :D",
+    "read_time_min": 15,
+    "finalized": False,
+    "tags": ["katameri", "download", "social"]
+  },
+  {
+    "id": "unnamed",
+    "name": "Project Y",
+    "short_description": "I have no fucking idea...",
+    "read_time_min": 5,
+    "finalized": False,
+    "tags": ["project", "y", "random", "wip"]
+  }
+]
